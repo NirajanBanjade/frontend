@@ -1,0 +1,19 @@
+
+.buttons{
+  display: grid;
+}
+button{
+  height: 50px;
+  width: 50px;
+}
+.table{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+.calcScreen{
+    height: 50px;
+    width: 197px;
+    border: 2px solid red;
+}
